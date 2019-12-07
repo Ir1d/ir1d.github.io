@@ -9,8 +9,6 @@ redirect_from:
 ---
 
 
-# Bio
-
 Hi! I'm Dejia Xu and I'm now a second-year undergraduate student majoring computer science at School of Electronic Engineering and Computer Science in Peking University, Beijing, P.R.China.
 
 Currently, I'm interested in Computer Vision and Deep Learning, especially on Image Processing.
