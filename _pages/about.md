@@ -8,12 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-
-Hi! I'm Dejia Xu and I'm now a second-year undergraduate student majoring computer science at School of Electronic Engineering and Computer Science in Peking University, Beijing, P.R.China.
+I'm Dejia Xu and I'm now a third-year undergraduate student majoring computer science at School of Electronic Engineering and Computer Science in Peking University, Beijing, P.R.China.
 
 Currently, I'm interested in Computer Vision and Deep Learning, especially on Image Processing.
  
 I also work as an intern student in [STRUCT](http://www.icst.pku.edu.cn/struct/) group, ICST, PKU.
+
+In Fall 2020, I will apply for graduate school (Master Degree) in computer science. Simultaneously, I am enthusiastic in exploring and expanding my career for the next half year. Please contact me if you are interested.
+
+
 
 # Contact Me
 
