@@ -14,4 +14,4 @@ Currently, I'm interested in Computer Vision and Deep Learning, especially on Im
  
 I also work as an intern student in [STRUCT](http://www.icst.pku.edu.cn/struct/) group, ICST, PKU.
 
-In Fall 2020, I will apply for graduate school (Master Degree) in computer science. Simultaneously, I am enthusiastic in exploring and expanding my career for the next half year. Please contact me if you are interested.
+In Fall 2020, I will apply for graduate school (Master Degree) in computer science. Simultaneously, I am enthusiastic in exploring and expanding my career for the next half year. Please contact me if you are interested. [CV](https://github.com/Ir1d/ir1d.github.io/blob/master/Dejia%20Xu.pdf)

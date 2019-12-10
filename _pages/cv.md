@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[PDF version](https://ir1d.github.io/Dejia%20Xu.pdf)
+[PDF version](https://github.com/Ir1d/ir1d.github.io/blob/master/Dejia%20Xu.pdf)
 
 Education
 ======
