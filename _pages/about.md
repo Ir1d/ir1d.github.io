@@ -8,10 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I'm Dejia Xu and I'm now a third-year undergraduate student majoring computer science at School of Electronic Engineering and Computer Science in Peking University, Beijing, P.R.China.
+I'm Dejia Xu and I'm now a senior undergraduate student majoring Computer Science at School of Electronic Engineering and Computer Science in Peking University, advised by Prof. [Boxin Shi](http://ci.idm.pku.edu.cn/).
 
-Currently, I'm interested in Computer Vision and Deep Learning, especially on Image Processing.
- 
-I also work as an intern student in [STRUCT](http://www.icst.pku.edu.cn/struct/) group, ICST, PKU.
+My primary interests lie in image restoration from severe weather conditions or artificial defects in an efficient and robust way, benefiting downstream high-level tasks as well.
 
-In Fall 2020, I will apply for graduate school (Master Degree) in computer science. Simultaneously, I am enthusiastic in exploring and expanding my career for the next half year. Please contact me if you are interested. [CV](https://github.com/Ir1d/ir1d.github.io/blob/master/Dejia%20Xu.pdf)
+I will apply for master programs starting from 2020 fall. Simultaneously, I am enthusiastic in exploring and expanding my career for the next half year. Please contact me if you are interested. [CV](https://github.com/Ir1d/ir1d.github.io/blob/master/DejiaXu.pdf)
